@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rosan Ghadei</h1>
-<h3 align="center">Welcome to my GitHub! I'm a passionate software developer specializing in web development, Mern Stack. I believe in writing clean and efficient code that solves real-world problems.</h3>
+<h3 align="center">Welcome to my GitHub! I'm a passionate software developer specializing in web development, MERN Stack. I believe in writing clean and efficient code that solves real-world problems.</h3>
 
 - 🔭 I’m currently working on **AI-based chatbot**
 
