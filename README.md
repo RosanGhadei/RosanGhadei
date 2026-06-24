@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Rosan Ghadei
-*Manual & Python Automation Test Engineer | QA Enthusiast*
+*Manual & Automation Test Engineer | QA Enthusiast*
 
 - 🔭 I’m currently working on **AI-Driven Hybrid Test Automation Framework**
 - 🌱 I’m currently learning **Playwright, AI-Driven Testing**
