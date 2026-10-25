@@ -1,15 +1,22 @@
 ## Hi 👋, I'm Rosan Ghadei
 *Manual & Automation Test Engineer | QA Enthusiast*
 
-*I am a QA Automation Engineer with experience in web UI automation, API testing, database validation, and test framework development. I enjoy building reusable automation frameworks and improving software quality through reliable, maintainable test scripts.*
+I am a QA Automation Engineer with experience in web UI automation, API testing, database validation, and test framework development. I enjoy building reusable automation frameworks and improving software quality through reliable, maintainable test scripts.
 
 🔭 Working on test automation frameworks using **Python Selenium and Playwright**
+
 🌱 Exploring **Playwright and AI-assisted test automation**
+
 🧪 Experienced in **functional, regression, smoke, API, UI, and end-to-end testing**
+
 🏗️ Interested in **Page Object Model (POM), data-driven testing, and reusable utilities**
+
 ⚙️ Familiar with CI/CD integration using **GitHub Actions and Jenkins**
+
 🤝 Open to collaborating on **QA automation and API testing projects**
+
 💬 Ask me about **Python, Selenium, PyTest, Playwright, Postman, SQL, and test design**
+
 📫 Email: **rosanghadei.qa@gmail.com**
 <h2 align="left">Skills</h2>
 
