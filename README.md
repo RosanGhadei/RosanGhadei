@@ -62,9 +62,6 @@ I am a QA Automation Engineer with experience in web UI automation, API testing,
   <a href="https://www.hackerrank.com/profile/imrosan89" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="50" height="30" alt="hackerrank logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/rosan-ghadei/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
